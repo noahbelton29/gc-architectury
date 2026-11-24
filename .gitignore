@@ -33,4 +33,4 @@ libs/essential/
 /testers.properties
 
 # datagen hash cache
-common/src/generated/resources/.cache
+common/src/main/generated/.cache/

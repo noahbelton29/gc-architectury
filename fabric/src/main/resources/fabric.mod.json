@@ -20,6 +20,9 @@
     ],
     "client": [
       "uk.nbforge.fabric.client.GCModFabricClient"
+    ],
+    "fabric-datagen": [
+      "uk.nbforge.fabric.GCModFabricDataGenerators"
     ]
   },
   "mixins": [

@@ -45,6 +45,13 @@ processResources {
     }
 }
 
+fabricApi {
+    configureDataGeneration {
+        client = true
+        outputDirectory = project(':common').file("src/generated")
+    }
+}
+
 // Minecraft is not obfuscated on this version, so there is no remapJar task.
 // The shaded jar is the mod jar that ships.
 jar {
