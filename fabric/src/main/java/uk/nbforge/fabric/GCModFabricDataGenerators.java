@@ -2,6 +2,7 @@ package uk.nbforge.fabric;
 
 import net.fabricmc.fabric.api.datagen.v1.DataGeneratorEntrypoint;
 import net.fabricmc.fabric.api.datagen.v1.FabricDataGenerator;
+import uk.nbforge.fabric.datagen.GCLanguageProvider;
 import uk.nbforge.fabric.datagen.GCModelProvider;
 
 public class GCModFabricDataGenerators implements DataGeneratorEntrypoint {
@@ -10,5 +11,6 @@ public class GCModFabricDataGenerators implements DataGeneratorEntrypoint {
         FabricDataGenerator.Pack pack = fabricDataGenerator.createPack();
 
         pack.addProvider(GCModelProvider::new);
+        pack.addProvider(GCLanguageProvider::new);
     }
 }
