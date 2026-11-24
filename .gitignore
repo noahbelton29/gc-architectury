@@ -1,0 +1,36 @@
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea/*
+!.idea/scopes
+
+# gradle
+build
+.gradle
+
+# other
+eclipse
+run
+run2
+runs
+runs2
+
+*.zip
+build-ledger.csv
+
+# essential jars (local copies)
+libs/essential/
+/testers.properties
+
+# datagen hash cache
+common/src/generated/resources/.cache
