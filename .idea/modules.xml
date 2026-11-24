@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/gallifreyan_chronicles.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/gallifreyan_chronicles.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/gallifreyan_chronicles.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/gallifreyan_chronicles.common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/gallifreyan_chronicles.common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/common/gallifreyan_chronicles.common.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/gallifreyan_chronicles.fabric.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/gallifreyan_chronicles.fabric.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/gallifreyan_chronicles.fabric.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/gallifreyan_chronicles.fabric.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/neoforge/gallifreyan_chronicles.neoforge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/neoforge/gallifreyan_chronicles.neoforge.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/neoforge/gallifreyan_chronicles.neoforge.test.iml" filepath="$PROJECT_DIR$/.idea/modules/neoforge/gallifreyan_chronicles.neoforge.test.iml" />
+    </modules>
+  </component>
+</project>
